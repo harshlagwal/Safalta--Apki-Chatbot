@@ -3,7 +3,7 @@ import sqlite3
 import openai  # Corrected Import
 
 # DeepSeek API settings
-DEEPSEEK_API_KEY = "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"  # Replace with your API key
+DEEPSEEK_API_KEY = "sk - xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  # Replace with your API key
 DEEPSEEK_API_URL = "https://openrouter.ai/api/v1"
 
 # Configure OpenAI with DeepSeek API
